@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar ul li a{
+    font-weight: 400;
+    color:#000;
+}
+.small{
+    color:#FD511A;
+}
+small{
+    display: block;
+}
+img{
+    width:100%;
+}
+.logo{
+    width:120px;
+}
+span{
+    color:#21B573;
+}
+h6{
+    margin-top: 10px;
+}
+.navbar-toggler-icon{
+    background-color:black;
+}
+.button{
+    font-family: 'Roboto', sans-serif;
+    background-color:#21B573;
+    color:#fff;
+    font-size: 16px;
+    padding:5px 10px;
+    border-radius: 10px;
+}
+a:hover{
+text-decoration: none;
+color:#fff;
+}
+.row{
+    margin-top: 50px;
+}
+#top-section{
+    background-color: #F0FFF0;
+    padding:0 80px;
+}
+.icon{
+    width:75px;
+    height: 80px;
+}
+.icon-box{
+    width:150px;
+    height:170px;
+    padding:5px 0;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.icon-box:hover{
+    background-color:#F0FFF0;
+    border: 2px solid rgb(27, 3, 27) ; 
+    border-radius: 10px;
+}
+#courses-section .designation{
+    margin-bottom:10px;
+}
+.learn-group .fontawesome{
+    margin-top: 10px;
+}
+.learn-group .fontawesome .fas, .far{
+    margin-right: 10px;
+}
+.col-content{
+    padding:10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.col-content .image:hover{
+    border:2px solid blue;
+    border-radius: 10px;  
+}
+.col-content:hover{
+    border:2px solid blue;
+    border-radius: 10px;
+}
+#testimonial h2{
+    margin-bottom:50px;
+}
